@@ -1,6 +1,6 @@
 language: node_js
 node_js: node
-deploy: peaceful-savannah-38492
+deploy:
   provider: heroku
   api_key:
     secure: XYmmDLkEcFGSzOWsbmhxtU20Ju5Z/XLM++7423IFnqAk5rYEcdoVHM9Hhs/v9NgqYYtdi70tLEKUhG4s0i5zwDP41CBBUUOupkdcBvTzCnaElTAGYyMveCnpcZGFH+ziU1zRElrUx7J7CNu2+JXU2+Rm+NDfV3fG+O/pys9/6yyXbVK/DMgQdmSeObQHtc9mE2i6SdKSZ/Up5oe5h4houuWbmuzH8GvK4k6/TVT8DLK+NroDRPMlXa/wRxec8mN0x9VyYWqn8V6q70dqke2NamOCUgNCLo+cyIEZsjZHus03VG2gg6tbYwwaFIGlS/y4crTmuSY/lAcYkVwDUR9CI7pnCc+RCPlCJHoZYQ6f0+xoop3ZwHOLZt6bGbHNxrvRJKw2InSlZ8omo0jX1JHop5CThTHUONsd/J2OWxjWmQ/MCebsa1BKSxf0af9KI1SnHHOIBD+PtLVB8nkpuGlZpEB9h1xg+wMhX0IM4s6+nA0SeV9Hx8ayl1DP+hweM70vz2iv5CpV/wQ3pUms4UV3nzGg4J9JpUh4nG0e3j/zYCZdeB8keBu8+9oFmlrRAiXbndLU4/WwAn8/s/ArXgHeFyDujn8rlPFSmjfpwul+LRsqVJeOo9cu0AqanQdInNXfGs1pukILX2+J3Q611mC15WL5ZY4SWu90E0zl3xPT+94=
